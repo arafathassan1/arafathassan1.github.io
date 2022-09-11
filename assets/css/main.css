@@ -2588,6 +2588,8 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+
+
 /* Image */
 
 	.image {
@@ -2665,7 +2667,8 @@ input, select, textarea {
 			width: 30%;
 			height: 5%;
 			margin-left: auto;
-			margin-right: 30px;
+			margin-right: auto;
+
 		}
 
 		#imgContainer {
